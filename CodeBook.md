@@ -1,6 +1,9 @@
-The bog data set that was made contains the data from 6 txt files. We have data separated from 6 diferent activities 
+The big data set that was made contains the data from 6 txt files. We have data separated from 6 diferent activities
+
 1 WALKING
+
 2 WALKING_UPSTAIRS
+
 3 WALKING_DOWNSTAIRS
 4 SITTING
 5 STANDING
