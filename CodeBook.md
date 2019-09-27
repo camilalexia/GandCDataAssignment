@@ -30,5 +30,6 @@ In this same process we appropriately label the data set with descriptive variab
 and we then add this new version of Y with the data frame created before with de meand and standard deviations
 6.- Finally, we create an independent tidy data set with the average of each variable for each activity and each subject. when in one side there are the means of each variable for each activity
 and on the other side we can get the means for each variable for every subject. 
+the end
 
 
